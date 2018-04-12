@@ -1,0 +1,12 @@
+{
+  "metric": {
+    "min_lim": 1,
+    "max_lim": 50
+  },
+  "smtp": {
+    "username": "test1task1mail@gmail.com",
+    "password": "TestTask123" ,
+    "host": "smtp.gmail.com",
+    "port": 587
+  }
+}
